@@ -4,6 +4,7 @@ fieldset {
   padding-bottom: 0;
 }
 
-div.form-field {
+.form-field {
+  display: block;
   margin-bottom: 10px;
 }
